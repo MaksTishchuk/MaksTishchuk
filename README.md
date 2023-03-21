@@ -23,7 +23,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-FFF?style=flat-square&logo=node.js)
 
 ![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=nestjs&logoColor=E0234E)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=black)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
