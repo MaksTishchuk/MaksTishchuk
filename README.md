@@ -17,6 +17,12 @@
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
 
 **Back-end**
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=nestjs&logoColor=E0234E)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
@@ -24,8 +30,9 @@
 
 **Databases**
 
-![SQLite](https://img.shields.io/badge/%20-SQLite-blue)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)
 
 **Front-end (Basic skills)**
 
@@ -44,7 +51,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksTishchuk&layout=compact&count_private=true&theme=gruvbox)
+![MaksTishchuk Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksTishchuk&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
 **MaksTishchuk/MaksTishchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
