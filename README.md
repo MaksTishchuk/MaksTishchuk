@@ -50,10 +50,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-## 𝗦𝘁𝗮𝘁𝘀
-
-![MaksTishchuk Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksTishchuk&layout=compact&count_private=true&theme=gruvbox)
-
 <!--
 **MaksTishchuk/MaksTishchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
